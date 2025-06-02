@@ -1,3 +1,3 @@
 # shelfish-privacy
 
-https://yourusername.github.io/shelfish-privacy
+https://semajyllek.github.io/shelfish-privacy
